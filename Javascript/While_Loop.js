@@ -24,6 +24,7 @@ while (i>=0)
 /*let n = prompt("do_while Enter the value of n : ");
 n = Number.parseInt(n);
 let i = 0;
+
 do
 {
     console.log(i);

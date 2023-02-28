@@ -11,6 +11,7 @@ New Branch
 `git checkout -b feature/wallet`
 `git status`
 `git add .`
+
 `git commit -m "koi message"` #Locally save
 `git push origin feature/wallet"` #server github
 
